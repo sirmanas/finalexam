@@ -1,5 +1,5 @@
-What service is used to translate domain names to IP addresses?
-* NFS
-* SMB
-* NIS
-+ DNS
+What is the world’s largest non-commercial Linux distribution
++ Debian
+* Ubuntu
+* Fedora
+* Mint
