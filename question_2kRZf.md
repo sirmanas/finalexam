@@ -1,6 +1,5 @@
-What Linus Torvalds Created?
-* Fedora
-* Slackware
-* Debian
-* Gentoo
-+ Linux
+What command is used to remove files?
+* dm
+* rm
++ delete
+* erase
