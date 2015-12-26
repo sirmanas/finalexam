@@ -1,6 +1,5 @@
-Choose the odd one out.
-* HP-UX
-* AIX
-* OSX
-+ Slackware
-* Solaris
+Macintosh is a variant of
+* linux
+* windows
+* unix
++ apple
