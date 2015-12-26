@@ -1,5 +1,4 @@
 What Linus Torvalds Created?
-
 * Fedora
 * Slackware
 * Debian
