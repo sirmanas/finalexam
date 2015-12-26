@@ -1,5 +1,5 @@
 What hardware architectures are not supported by Red Hat?
 * SPARC
-*	IBM-compatible
-*	Alpha
-+	Macintosh
+* IBM-compatible
+* Alpha
++ Macintosh
