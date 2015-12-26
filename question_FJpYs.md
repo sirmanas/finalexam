@@ -1,6 +1,6 @@
-Linux is which kind of Operating System?
-* Multi User
-* Multi Tasking
-* Multi Process
-+ All of the above
-* None of the above
+What does GNU stands for?
+* Gnu’s not Unix
+* Geek Needed Unix
+* General Unix
+* General Unix
+* None of the Above
