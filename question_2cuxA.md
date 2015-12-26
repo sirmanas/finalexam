@@ -1,6 +1,5 @@
-What is the core of Linux Operating System?
-* Shell
-+ Kernel
-* Command
-* Script
-* Terminal
+What command is used to remove the directory?
+* rdir
+* remove
+* rd
++ rmdir
